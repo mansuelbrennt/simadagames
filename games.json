@@ -2,7 +2,7 @@
     {
         "name": "Drift Boss",
         "description": "A drifting game.",
-        "url": "https://simadagames.rf.gd/gamefile/driftboss.html",
+        "url": "https://simada.online/gamefile/driftboss.html",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzc-ABzxgK5MWgCAomxB-sYAktBosYmSV-BQ&s",
         "category": ["Racing", "Action"]
     },
@@ -16,14 +16,14 @@
     {
         "name": "3D Car Simulator",
         "description": "3D Car Simulator is a very fun, fast-paced car driving simulator that allows you to test and show off your driving skills. DOES NOT WORK ON SOME BROWSERS.",
-        "url": "https://simadagames.rf.gd/gamefile/3d-car-simulator.html",
+        "url": "https://simada.online/gamefile/3d-car-simulator.html",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8F4s-DvYNjQ_3D4uBs0DJfS8Zuvr2WyFe6g&s",
         "category": ["Racing", "Simulation"]
     },
     {
         "name": "Smash Karts",
         "description": "Smash Karts is a free io Multiplayer Kart Battle Arena game. Drive fast. Fire rockets. Make big explosions and more!",
-        "url": "https://simadagames.rf.gd/gamefile/smashkarts.html",
+        "url": "https://simada.online/gamefile/smashkarts.html",
         "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDNW8tmP7v3XJXhQRjEC5XFtn2SRXmTWZuXwUxGtInX_Q4A77XKgUX5lwvNry9IyVTtB7n",
         "category": ["Racing", "Action", "Multiplayer"]
     }
